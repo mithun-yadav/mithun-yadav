@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mithun%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Architect%20%7C%20Digital%20Craftsman&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+don't+just+write+code+%E2%80%94+I+shape+experiences.;Full+Stack+engineer+with+3%2B+years+in+the+wild.;React+%7C+Node+%7C+TypeScript+%7C+GraphQL+%7C+Docker;Diving+deep+into+Web3+%26+Automation.;Let's+build+something+the+web+won't+forget." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+don't+just+write+code+%E2%80%94+I+shape+experiences.;Full+Stack+engineer+with+4%2B+years+in+the+wild.;React+%7C+Node+%7C+TypeScript+%7C+GraphQL+%7C+Docker;Diving+deep+into+Web3+%26+Automation.;Let's+build+something+the+web+won't+forget." alt="Typing SVG" />
 
 <br/><br/>
 
