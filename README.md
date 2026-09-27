@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithun-yadav)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/memithunyadav)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mithun-yadav&style=for-the-badge&color=7c3aed&label=Profile+Views)
+![Profile Views](https://mithun-yadav.in/)
 
 </div>
 
