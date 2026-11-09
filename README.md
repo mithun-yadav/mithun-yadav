@@ -79,52 +79,6 @@ const mithun: FullStackDeveloper = {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🔴 [FlowMind — AI-Powered Automation Platform](#)
-> *Drag. Connect. Automate. Done.*
-
-A no-code/low-code automation engine that lets teams build intelligent workflows visually — think Zapier, but with custom logic blocks powered by AI.
-
-- **Tech:** Next.js · Node.js · Python · Docker · GitHub Actions · WebSockets · MongoDB
-- **Highlights:** 50+ pre-built integration nodes · Real-time execution logs · RBAC · Self-hostable via Docker Compose
-- **Impact:** Cuts repetitive DevOps tasks by ~70%
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mithun-yadav)
-[![Live](https://img.shields.io/badge/Demo-Live_Preview-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-### 🟣 [ChainVault — Web3 Portfolio & DeFi Dashboard](#)
-> *Your on-chain life, beautifully visualized.*
-
-A Web3 dashboard aggregating wallet assets, DeFi positions, and NFT holdings across multiple chains — with real-time price feeds and transaction history.
-
-- **Tech:** Next.js · TypeScript · ethers.js · GraphQL (The Graph) · Tailwind CSS · Firebase
-- **Highlights:** Multi-wallet connect (MetaMask, WalletConnect) · Multi-chain EVM · Live price charts · Gas tracker
-- **Impact:** Makes complex on-chain data clean and actionable for any user
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mithun-yadav)
-[![Live](https://img.shields.io/badge/Demo-Live_Preview-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-### 🟢 [CollabSpace — Real-Time Team Collaboration Suite](#)
-> *Build together, ship faster.*
-
-A full-featured real-time workspace with live document editing, kanban boards, and team chat — all in one product.
-
-- **Tech:** React · Node.js · Socket.IO · Redux Toolkit · MongoDB · JWT · Stripe · Docker
-- **Highlights:** Real-time cursors & presence · Stripe-powered subscriptions · RBAC · Dockerized deployment
-- **Impact:** Production-ready SaaS architecture demonstrating end-to-end full stack ownership
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mithun-yadav)
-[![Live](https://img.shields.io/badge/Demo-Live_Preview-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
